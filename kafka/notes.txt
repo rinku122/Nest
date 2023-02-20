@@ -1,0 +1,2 @@
+cd kafdrop/docker-compose/kafka-kafdrop
+docker-compose up -d
